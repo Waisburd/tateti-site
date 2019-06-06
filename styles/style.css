@@ -1,0 +1,46 @@
+.square{
+    width: 140px;
+    height: 140px;
+    background-color: rgba(127, 255, 212, 0.322);
+    display: inline-block;
+    margin: 5px;
+    /* align-content: center; */
+    
+}
+
+.square:hover{
+    background-color: rgba(127, 255, 212, 0.8);
+    background-image: url('../resources/illuminati_white.png');
+    background-size: 100%;
+}
+
+.ficha{
+    /* background-color: blue; */
+    /* font-size: 80px; */
+    display: flexbox;
+    margin: auto;
+    width: 100%;
+        
+}
+/* .ficha{
+    src: url('../resources/lagash_icon.jpeg');
+} */
+
+
+
+
+#container{
+    width: 460px;
+    background-image: url("../resources/lagash_icon.jpeg");
+    background-size: 460px;
+    margin: auto;
+}
+
+body{
+    background-color: crimson;
+}
+/* #tc{
+    position: relative;
+    left: 33%;
+    bottom: 33%;
+} */
