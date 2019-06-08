@@ -4,13 +4,14 @@
     background-color: rgba(127, 255, 212, 0.322);
     display: inline-block;
     margin: 5px;
+    vertical-align: top;
     /* align-content: center; */
     
 }
 
 .square:hover{
     background-color: rgba(127, 255, 212, 0.8);
-    background-image: url('../resources/illuminati_white.png');
+    /* background-image: url('../resources/illuminati_white.png'); */
     background-size: 100%;
 }
 
